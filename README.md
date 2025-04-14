@@ -1,7 +1,6 @@
-# Springboot-React-chat-ai
-# Gemini Chat
+# Springboot-React-chat-ai (Gemini Chat)
 
-An AI chatbot web application built with React (frontend) and Spring Boot (backend). Users can interact with the chatbot, and responses are displayed, enhancing the chat experience.
+An AI chatbot web application built with React (frontend) and Spring Boot (backend) along with Google Gemini API. Users can interact with the chatbot, and responses are displayed, enhancing the chat experience.
 
 ## Features
 - AI-powered chatbot interface.
