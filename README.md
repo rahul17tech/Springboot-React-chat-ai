@@ -8,6 +8,10 @@ An AI chatbot web application built with React (frontend) and Spring Boot (backe
 - Background image for UI styling.
 - Keyboard "Enter" key support for sending messages.
 
+## Screenshot
+![Screenshot 2025-04-14 172647](https://github.com/user-attachments/assets/db8092f3-ba71-4a30-bcb6-0fd4e7eb44f8)
+
+
 ## Technologies Used
 ### Frontend
 - React.js
